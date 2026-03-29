@@ -30,6 +30,8 @@ Berbeda dengan tool OSINT biasa, SPY-RECON menggunakan **NAGA-SPY-E Engine** yan
 ```bash
 git clone [https://github.com/123tool/SPY-EXTRACTOR.git](https://github.com/123tool/SPY-EXTRACTOR.git)
 cd SPY-EXTRACTOR
+pip install -r requirements.txt
+atau
 pip install aiohttp fake-useragent
 python spy_recon.py
 ```
