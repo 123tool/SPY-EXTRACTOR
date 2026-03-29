@@ -1,4 +1,4 @@
-# 🕵️‍♂️ SPY-RECON: Advanced IoC Extractor
+# 🕵️‍♂️ SPY-EXTRACTOR: Advanced IoC Extractor
 **Intelligence Gathering Tool by SPY-E & 123Tool**
 
 SPY-RECON adalah tool intelijen berbasis terminal yang ditenagai oleh mesin internal **NAGA-SPY-E**. Tool ini dirancang untuk mendeteksi secara otomatis berbagai *Indicators of Compromise* (IoC) dan menghubungkannya dengan database intelijen keamanan global secara instan.
